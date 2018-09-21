@@ -23,11 +23,6 @@ Here's the pipeline:
 
 The game asks you a series of general knowledge questions. It presents you with a choice of four answers, where one is correct. The more you get right, the more money you build up, until you win the jackpot.
 
-### Decrypting the game files
-The game data files look like [this](https://github.com/tensorman/slotbot/blob/master/jackpot_q_bank/UK_geography_01.QQQ); encrypted, unreadable text.
-Fortunately, it turned out that they were encrypted using an [xor cipher](https://en.wikipedia.org/wiki/XOR_cipher).
-This means that we can fairly easily [write a script](https://en.wikipedia.org/wiki/Chosen-plaintext_attack) to get a list of questions and answers in human-readable, decrypted form (run `python decrypt.py`).
-
 ### Designing a brute force search
 
 Now we have the data, the fun begins. We need to read the screen, match what we can see to a question in the data bank via a brute force search, and read out the corresponding correct answer.
