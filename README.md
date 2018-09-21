@@ -7,6 +7,7 @@ This code allows you to win the jackpot every time.
 
 Enjoy!
 
+Disclaimer: ROM legitimately aquired, only use this on machines you own.
 
 Here's the pipeline:
 
@@ -15,7 +16,6 @@ Here's the pipeline:
 - Pass processed question boxes to Google Tesseract for text recognition
 - Run OCR text through a hand-designed brute-force search to get the most likely answer
 - Pass answer through text-to-speech engine and into hidden earpiece
-- (profit)
 
 ### The game
 
