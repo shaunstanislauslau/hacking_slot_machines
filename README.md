@@ -16,7 +16,7 @@ Here's the pipeline:
 - Run OCR text through a hand-designed brute-force search to get the most likely answer
 - Pass answer through text-to-speech engine and into hidden earpiece
 
-**Disclaimer: ROM legitimately aquired and not included for obvious reasons. This game was recently retired from machines.**
+**Disclaimer: ROM legitimately aquired and not included for obvious reasons. This is an old game that has been retired from machines.**
 
 
 ### The game
