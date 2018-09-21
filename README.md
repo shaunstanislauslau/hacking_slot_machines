@@ -3,8 +3,6 @@
 
 So it turns out that there's a game on a specific brand of slot machine that's basically like an extreme version of Trivial Pursuit. It *also* turns out that the game ROM (containing all the answers) can be found online.
 
-This code allows you to win the jackpot every time.
-
 Enjoy!
 
 **Disclaimer: ROM legitimately aquired and not included for obvious reasons. This game was recently retired from machines.**
