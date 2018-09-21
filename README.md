@@ -3,7 +3,7 @@
 
 So it turns out that there's a game on a specific brand of slot machine that's basically like an extreme version of Trivial Pursuit. It *also* turns out that the game ROM (containing all the answers) can be found online.
 
-This was inspired by Claude Shannon (father of information theory) who figured out a way to gain a [probabilistic edge roulette wheels](http://nautil.us/issue/50/emergence/claude-shannon-the-las-vegas-cheat) with Edward Thorp.
+This was inspired by Claude Shannon (father of information theory) and Edward Thorp, who figured out a way to gain a [probabilistic edge in roulette with one of the first wearable computers](http://nautil.us/issue/50/emergence/claude-shannon-the-las-vegas-cheat).
 
 Enjoy!
 
