@@ -1,4 +1,4 @@
-# SlotBot: Hacking slot machines to win the jackpot using a hidden camera and brute-force search
+# SlotBot
 
 
 So it turns out that there's a game on a specific brand of trivia machine that's basically like an extreme version of Trivial Pursuit. It *also* turns out that the answers can be found online.
