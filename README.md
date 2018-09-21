@@ -7,7 +7,7 @@ This code allows you to win the jackpot every time.
 
 Enjoy!
 
-Disclaimer: ROM legitimately aquired and not included for obvious reasons.
+**Disclaimer: ROM legitimately aquired and not included for obvious reasons. This game was recently retired from machines.**
 
 Here's the pipeline:
 
