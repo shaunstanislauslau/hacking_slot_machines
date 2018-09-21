@@ -5,7 +5,7 @@ So it turns out that there's a game on a specific brand of slot machine that's b
 
 Enjoy!
 
-**Disclaimer: ROM legitimately aquired and not included for obvious reasons. This game was recently retired from machines.**
+**Disclaimer: ROM legitimately aquired and not included for obvious reasons. This game was recently retired from machines. This was done as a fun challenge (and would probably not be profitable!).**
 
 Here's the pipeline:
 
