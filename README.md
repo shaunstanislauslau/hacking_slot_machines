@@ -7,7 +7,6 @@ This was inspired by the work of Claude Shannon (father of information theory) a
 
 Enjoy!
 
-**Disclaimer: ROM legitimately aquired and not included for obvious reasons. This game was recently retired from machines.**
 
 Here's the pipeline:
 
@@ -16,6 +15,9 @@ Here's the pipeline:
 - Pass processed question boxes to Google Tesseract for text recognition
 - Run OCR text through a hand-designed brute-force search to get the most likely answer
 - Pass answer through text-to-speech engine and into hidden earpiece
+
+**Disclaimer: ROM legitimately aquired and not included for obvious reasons. This game was recently retired from machines.**
+
 
 ### The game
 
